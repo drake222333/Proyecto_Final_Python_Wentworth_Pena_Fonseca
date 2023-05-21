@@ -4,7 +4,7 @@ Esta es una aplicacion web que te permite registrar informacion de tus gastos, i
 Tambien podras tener acceso a tu informacion en cualquier momento, con solo digitar la fecha en que guardastes tus movimientos financieros. De esta manera podras administrar bien tu dinero de manera respondable y asu vez poder planear tu futuro financiero.
 
 
-<h1 align="center">Otras Caracteristicas</h1>
+<h1 align="left">Otras Caracteristicas</h1>
 
 -Permite hacer loging, logout, registro de usuarios y asignacion de un avatar al usuario/perfil
 
