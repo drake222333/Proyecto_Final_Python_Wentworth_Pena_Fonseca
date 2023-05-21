@@ -37,6 +37,7 @@ Tambien podras tener acceso a tu informacion en cualquier momento, con solo digi
 
 <h1 align="left">Video Guia</h1>
 
+https://clipchamp.com/watch/MgDddw9jrOE
 
 <h1 align="left">Autores</h1>
 
