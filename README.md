@@ -4,7 +4,7 @@ Esta es una aplicacion web que te permite registrar informacion de tus gastos, i
 Tambien podras tener acceso a tu informacion en cualquier momento, con solo digitar la fecha en que guardastes tus movimientos financieros. De esta manera podras administrar bien tu dinero de manera respondable y asu vez poder planear tu futuro financiero.
 
 
-<h1 align="center">Otras Caracteristicas:</h1>
+<h1 align="center">Otras Caracteristicas</h1>
 
 -Permite hacer loging, logout, registro de usuarios y asignacion de un avatar al usuario/perfil
 
@@ -13,32 +13,37 @@ Tambien podras tener acceso a tu informacion en cualquier momento, con solo digi
 -permite editar o eliminar la informacion ingresada en Gastos, Inversiones y Trading 
 
 
-<h1 align="center">Requisitos:</h1>
+<h1 align="center">Requisitos</h1>
 
 -Si deseas tener acceso desde cualquier lugar, debes tener aceso a internet
 
 -Un PC con minimas caracteristicas es suficiente 
 
 
-<h1 align="center">Construido con:</h1>
+<h1 align="center">Construido con</h1>
 
 -Python
+
 -Django
+
 -CSS
+
 -HTML
+
 -Visul Studio Code
+
 -Plantillas Html Bootstrap
 
 
-<h1 align="center">Video Guia:</h1>
+<h1 align="center">Video Guia</h1>
 
 
-<h1 align="center">Autores:</h1>
+<h1 align="center">Autores</h1>
 
 Wentworth Peña Fonseca
 
 
-<h1 align="center">Agradecimientos:</h1>
+<h1 align="center">Agradecimientos</h1>
 
 A Dios gracias siempre por ser mi Luz, al profesor David Bustos, y tutor Juan Panasiti que amablemente compartieron su conocimiento, a mi Madre Stella
 y a mi Hijo Samuel que con su Amor me dan fortaleza cada dia para cumplir con mis metas, y a mi amorosa y tierna novia Brit que con su paciencia me ha comprendido y acompañado en este proyecto. A todos ustedes mis mas sinceros agradesimientos.
