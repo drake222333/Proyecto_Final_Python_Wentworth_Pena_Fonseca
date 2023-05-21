@@ -46,4 +46,4 @@ Wentworth Peña Fonseca
 <h1 align="center">Agradecimientos</h1>
 
 A Dios gracias siempre por ser mi Luz, al profesor David Bustos, y tutor Juan Panasiti que amablemente compartieron su conocimiento, a mi Madre Stella
-y a mi Hijo Samuel que con su Amor me dan fortaleza cada dia para cumplir con mis metas, y a mi amorosa y tierna novia Brit que con su paciencia me ha comprendido y acompañado en este proyecto. A todos ustedes mis mas sinceros agradesimientos.
+y a mi Hijo Samuel que con su Amor me dan fortaleza cada dia para cumplir con mis metas, y a mi amorosa y tierna novia Brit que con su paciencia me ha comprendido y acompañado en este proyecto. A todos ustedes mis mas sinceros agradecimientos.
