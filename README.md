@@ -13,14 +13,14 @@ Tambien podras tener acceso a tu informacion en cualquier momento, con solo digi
 -permite editar o eliminar la informacion ingresada en Gastos, Inversiones y Trading 
 
 
-<h1 align="center">Requisitos</h1>
+<h1 align="left">Requisitos</h1>
 
 -Si deseas tener acceso desde cualquier lugar, debes tener aceso a internet
 
 -Un PC con minimas caracteristicas es suficiente 
 
 
-<h1 align="center">Construido con</h1>
+<h1 align="left">Construido con</h1>
 
 -Python
 
@@ -35,10 +35,10 @@ Tambien podras tener acceso a tu informacion en cualquier momento, con solo digi
 -Plantillas Html Bootstrap
 
 
-<h1 align="center">Video Guia</h1>
+<h1 align="left">Video Guia</h1>
 
 
-<h1 align="center">Autores</h1>
+<h1 align="left">Autores</h1>
 
 Wentworth Peña Fonseca
 
